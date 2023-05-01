@@ -202,5 +202,6 @@ pyrightconfig.json
 .ionide
 
 ### generated data
-data/external/*
-data/external/test100k.db
+data/external/
+data/raw/
+src/collection/keys.json
