@@ -203,5 +203,6 @@ pyrightconfig.json
 
 ### generated data
 data/external/
+data/processed/
 data/raw/
 src/collection/keys.json
